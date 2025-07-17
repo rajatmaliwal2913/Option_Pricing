@@ -1978,13 +1978,13 @@ with st.sidebar:
     st.markdown("""
     <div style="background-color: #f0f4f7; padding: 6px; border-radius: 5px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);">
         <h3 style="color: #000000; text-align: center; margin: 0 0 0px 0;">Contact Me</h3>
-        <p style="color: #000000; margin: 0px; line-height: 1.5;"><strong>Raphael EL-BAZE</strong></p>
-        <p style="color: #000000; margin: 0px; line-height: 1.5;">📧 <a href="mailto:raphael.elbaze.pro@gmail.com" style="color: #0072b1;">raphael.elbaze.pro@gmail.com</a></p>
+        <p style="color: #000000; margin: 0px; line-height: 1.5;"><strong>Rajat Maliwal</strong></p>
+        <p style="color: #000000; margin: 0px; line-height: 1.5;">📧 <a href="mailto:raphael.elbaze.pro@gmail.com" style="color: #0072b1;">rajatmaliwal2913@gmail.com</a></p>
         <p style="color: #000000; margin: 0px; line-height: 1.5;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 16px; vertical-align: middle;"> 
-            <a href="https://www.linkedin.com/in/raphael-el-baze/" target="_blank" style="color: #0072b1;">https://www.linkedin.com/in/raphael-el-baze/</a>
+            <a href="https://www.linkedin.com/in/rajat-maliwal-285aa1253/" target="_blank" style="color: #0072b1;">https://www.linkedin.com/in/rajat-maliwal-285aa1253/</a>
         </p>
-        <p style="color: #000000; margin: 0px; line-height: 1.8;">📞 +33 (0)6 68 86 91 30</p>
+        <p style="color: #000000; margin: 0px; line-height: 1.8;">📞 +91 9724549431</p>
     </div>
     """, unsafe_allow_html=True)
 
