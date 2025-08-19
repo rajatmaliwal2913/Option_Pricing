@@ -1984,7 +1984,7 @@ with st.sidebar:
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 16px; vertical-align: middle;"> 
             <a href="https://www.linkedin.com/in/rajat-maliwal-285aa1253/" target="_blank" style="color: #0072b1;">https://www.linkedin.com/in/rajat-maliwal-285aa1253/</a>
         </p>
-        <p style="color: #000000; margin: 0px; line-height: 1.8;">📞 +91 9724549431</p>
+        <p style="color: #000000; margin: 0px; line-height: 1.8;">📞 +91 </p>
     </div>
     """, unsafe_allow_html=True)
 
